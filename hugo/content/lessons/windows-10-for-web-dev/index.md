@@ -64,7 +64,7 @@ mkdir testing # make directory
 cd testing # move into directory
 touch somefile.txt # create a file
 cat somefile.txt # read a file
-vi somefile.txt # edit a file with vim
+vi somefile.txt # edit a file with vi
 code somefile.txt # edit a file with vscode
 ```
 
